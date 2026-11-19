@@ -1,0 +1,6 @@
+{
+  "name": "Campus Parking Analytics Dashboard",
+  "description": "Smart Data Insights for Efficient Campus Parking Management — interactive campus parking usage analysis, CSV dataset explorer, and automated occupancy insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

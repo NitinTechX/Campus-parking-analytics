@@ -1,0 +1,589 @@
+Date,Time,Day,Parking_Location,Total_Capacity,Occupied_Spaces,Available_Spaces,Occupancy_Percentage,Vehicle_Type
+2026-10-05,08:00,Monday,Main Gate Parking,150,124,26,82.67,Car
+2026-10-05,08:00,Monday,Academic Block Parking,200,144,56,72.0,Car
+2026-10-05,08:00,Monday,Library Parking,120,46,74,38.33,Two-Wheeler
+2026-10-05,08:00,Monday,Hostel Parking,180,125,55,69.44,Car
+2026-10-05,08:00,Monday,Canteen Parking,90,33,57,36.67,Car
+2026-10-05,08:00,Monday,Sports Complex Parking,100,17,83,17.0,Two-Wheeler
+2026-10-05,09:00,Monday,Main Gate Parking,150,133,17,88.67,Car
+2026-10-05,09:00,Monday,Academic Block Parking,200,189,11,94.5,Two-Wheeler
+2026-10-05,09:00,Monday,Library Parking,120,56,64,46.67,Two-Wheeler
+2026-10-05,09:00,Monday,Hostel Parking,180,78,102,43.33,Car
+2026-10-05,09:00,Monday,Canteen Parking,90,52,38,57.78,Two-Wheeler
+2026-10-05,09:00,Monday,Sports Complex Parking,100,15,85,15.0,Car
+2026-10-05,10:00,Monday,Main Gate Parking,150,147,3,98.0,Car
+2026-10-05,10:00,Monday,Academic Block Parking,200,182,18,91.0,Car
+2026-10-05,10:00,Monday,Library Parking,120,75,45,62.5,Two-Wheeler
+2026-10-05,10:00,Monday,Hostel Parking,180,70,110,38.89,Two-Wheeler
+2026-10-05,10:00,Monday,Canteen Parking,90,57,33,63.33,Faculty Van
+2026-10-05,10:00,Monday,Sports Complex Parking,100,17,83,17.0,Two-Wheeler
+2026-10-05,12:00,Monday,Main Gate Parking,150,140,10,93.33,Two-Wheeler
+2026-10-05,12:00,Monday,Academic Block Parking,200,177,23,88.5,Two-Wheeler
+2026-10-05,12:00,Monday,Library Parking,120,80,40,66.67,Car
+2026-10-05,12:00,Monday,Hostel Parking,180,73,107,40.56,Two-Wheeler
+2026-10-05,12:00,Monday,Canteen Parking,90,79,11,87.78,Car
+2026-10-05,12:00,Monday,Sports Complex Parking,100,18,82,18.0,Car
+2026-10-05,14:00,Monday,Main Gate Parking,150,127,23,84.67,Car
+2026-10-05,14:00,Monday,Academic Block Parking,200,161,39,80.5,Car
+2026-10-05,14:00,Monday,Library Parking,120,78,42,65.0,EV
+2026-10-05,14:00,Monday,Hostel Parking,180,86,94,47.78,Two-Wheeler
+2026-10-05,14:00,Monday,Canteen Parking,90,68,22,75.56,Two-Wheeler
+2026-10-05,14:00,Monday,Sports Complex Parking,100,23,77,23.0,Two-Wheeler
+2026-10-05,17:00,Monday,Main Gate Parking,150,99,51,66.0,Two-Wheeler
+2026-10-05,17:00,Monday,Academic Block Parking,200,95,105,47.5,Two-Wheeler
+2026-10-05,17:00,Monday,Library Parking,120,72,48,60.0,Two-Wheeler
+2026-10-05,17:00,Monday,Hostel Parking,180,133,47,73.89,Car
+2026-10-05,17:00,Monday,Canteen Parking,90,62,28,68.89,Car
+2026-10-05,17:00,Monday,Sports Complex Parking,100,82,18,82.0,EV
+2026-10-05,20:00,Monday,Main Gate Parking,150,44,106,29.33,Car
+2026-10-05,20:00,Monday,Academic Block Parking,200,37,163,18.5,Two-Wheeler
+2026-10-05,20:00,Monday,Library Parking,120,53,67,44.17,Two-Wheeler
+2026-10-05,20:00,Monday,Hostel Parking,180,158,22,87.78,Two-Wheeler
+2026-10-05,20:00,Monday,Canteen Parking,90,30,60,33.33,Car
+2026-10-05,20:00,Monday,Sports Complex Parking,100,47,53,47.0,EV
+2026-10-06,08:00,Tuesday,Main Gate Parking,150,118,32,78.67,Car
+2026-10-06,08:00,Tuesday,Academic Block Parking,200,159,41,79.5,Two-Wheeler
+2026-10-06,08:00,Tuesday,Library Parking,120,36,84,30.0,Car
+2026-10-06,08:00,Tuesday,Hostel Parking,180,105,75,58.33,Two-Wheeler
+2026-10-06,08:00,Tuesday,Canteen Parking,90,36,54,40.0,Two-Wheeler
+2026-10-06,08:00,Tuesday,Sports Complex Parking,100,15,85,15.0,Two-Wheeler
+2026-10-06,09:00,Tuesday,Main Gate Parking,150,147,3,98.0,Two-Wheeler
+2026-10-06,09:00,Tuesday,Academic Block Parking,200,193,7,96.5,EV
+2026-10-06,09:00,Tuesday,Library Parking,120,52,68,43.33,Two-Wheeler
+2026-10-06,09:00,Tuesday,Hostel Parking,180,74,106,41.11,Two-Wheeler
+2026-10-06,09:00,Tuesday,Canteen Parking,90,45,45,50.0,Two-Wheeler
+2026-10-06,09:00,Tuesday,Sports Complex Parking,100,12,88,12.0,Two-Wheeler
+2026-10-06,10:00,Tuesday,Main Gate Parking,150,143,7,95.33,Faculty Van
+2026-10-06,10:00,Tuesday,Academic Block Parking,200,196,4,98.0,Car
+2026-10-06,10:00,Tuesday,Library Parking,120,69,51,57.5,Car
+2026-10-06,10:00,Tuesday,Hostel Parking,180,71,109,39.44,Two-Wheeler
+2026-10-06,10:00,Tuesday,Canteen Parking,90,53,37,58.89,Two-Wheeler
+2026-10-06,10:00,Tuesday,Sports Complex Parking,100,20,80,20.0,Car
+2026-10-06,12:00,Tuesday,Main Gate Parking,150,136,14,90.67,Two-Wheeler
+2026-10-06,12:00,Tuesday,Academic Block Parking,200,172,28,86.0,Two-Wheeler
+2026-10-06,12:00,Tuesday,Library Parking,120,69,51,57.5,Car
+2026-10-06,12:00,Tuesday,Hostel Parking,180,67,113,37.22,EV
+2026-10-06,12:00,Tuesday,Canteen Parking,90,86,4,95.56,Two-Wheeler
+2026-10-06,12:00,Tuesday,Sports Complex Parking,100,20,80,20.0,Car
+2026-10-06,14:00,Tuesday,Main Gate Parking,150,129,21,86.0,Faculty Van
+2026-10-06,14:00,Tuesday,Academic Block Parking,200,151,49,75.5,Two-Wheeler
+2026-10-06,14:00,Tuesday,Library Parking,120,73,47,60.83,Two-Wheeler
+2026-10-06,14:00,Tuesday,Hostel Parking,180,87,93,48.33,Car
+2026-10-06,14:00,Tuesday,Canteen Parking,90,70,20,77.78,Two-Wheeler
+2026-10-06,14:00,Tuesday,Sports Complex Parking,100,24,76,24.0,EV
+2026-10-06,17:00,Tuesday,Main Gate Parking,150,87,63,58.0,Car
+2026-10-06,17:00,Tuesday,Academic Block Parking,200,93,107,46.5,Two-Wheeler
+2026-10-06,17:00,Tuesday,Library Parking,120,62,58,51.67,Car
+2026-10-06,17:00,Tuesday,Hostel Parking,180,147,33,81.67,Two-Wheeler
+2026-10-06,17:00,Tuesday,Canteen Parking,90,62,28,68.89,Two-Wheeler
+2026-10-06,17:00,Tuesday,Sports Complex Parking,100,79,21,79.0,Car
+2026-10-06,20:00,Tuesday,Main Gate Parking,150,34,116,22.67,Two-Wheeler
+2026-10-06,20:00,Tuesday,Academic Block Parking,200,26,174,13.0,Car
+2026-10-06,20:00,Tuesday,Library Parking,120,40,80,33.33,Two-Wheeler
+2026-10-06,20:00,Tuesday,Hostel Parking,180,154,26,85.56,EV
+2026-10-06,20:00,Tuesday,Canteen Parking,90,32,58,35.56,Car
+2026-10-06,20:00,Tuesday,Sports Complex Parking,100,42,58,42.0,Two-Wheeler
+2026-10-07,08:00,Wednesday,Main Gate Parking,150,112,38,74.67,Car
+2026-10-07,08:00,Wednesday,Academic Block Parking,200,154,46,77.0,Two-Wheeler
+2026-10-07,08:00,Wednesday,Library Parking,120,40,80,33.33,Two-Wheeler
+2026-10-07,08:00,Wednesday,Hostel Parking,180,118,62,65.56,Two-Wheeler
+2026-10-07,08:00,Wednesday,Canteen Parking,90,28,62,31.11,Two-Wheeler
+2026-10-07,08:00,Wednesday,Sports Complex Parking,100,19,81,19.0,Two-Wheeler
+2026-10-07,09:00,Wednesday,Main Gate Parking,150,141,9,94.0,Two-Wheeler
+2026-10-07,09:00,Wednesday,Academic Block Parking,200,190,10,95.0,Car
+2026-10-07,09:00,Wednesday,Library Parking,120,56,64,46.67,Car
+2026-10-07,09:00,Wednesday,Hostel Parking,180,76,104,42.22,Two-Wheeler
+2026-10-07,09:00,Wednesday,Canteen Parking,90,43,47,47.78,Two-Wheeler
+2026-10-07,09:00,Wednesday,Sports Complex Parking,100,15,85,15.0,Car
+2026-10-07,10:00,Wednesday,Main Gate Parking,150,136,14,90.67,EV
+2026-10-07,10:00,Wednesday,Academic Block Parking,200,183,17,91.5,EV
+2026-10-07,10:00,Wednesday,Library Parking,120,68,52,56.67,Car
+2026-10-07,10:00,Wednesday,Hostel Parking,180,72,108,40.0,Two-Wheeler
+2026-10-07,10:00,Wednesday,Canteen Parking,90,59,31,65.56,EV
+2026-10-07,10:00,Wednesday,Sports Complex Parking,100,22,78,22.0,Car
+2026-10-07,12:00,Wednesday,Main Gate Parking,150,129,21,86.0,Car
+2026-10-07,12:00,Wednesday,Academic Block Parking,200,160,40,80.0,Car
+2026-10-07,12:00,Wednesday,Library Parking,120,73,47,60.83,Faculty Van
+2026-10-07,12:00,Wednesday,Hostel Parking,180,71,109,39.44,Two-Wheeler
+2026-10-07,12:00,Wednesday,Canteen Parking,90,80,10,88.89,Two-Wheeler
+2026-10-07,12:00,Wednesday,Sports Complex Parking,100,27,73,27.0,Faculty Van
+2026-10-07,14:00,Wednesday,Main Gate Parking,150,121,29,80.67,Two-Wheeler
+2026-10-07,14:00,Wednesday,Academic Block Parking,200,150,50,75.0,Car
+2026-10-07,14:00,Wednesday,Library Parking,120,85,35,70.83,Two-Wheeler
+2026-10-07,14:00,Wednesday,Hostel Parking,180,80,100,44.44,Two-Wheeler
+2026-10-07,14:00,Wednesday,Canteen Parking,90,64,26,71.11,Two-Wheeler
+2026-10-07,14:00,Wednesday,Sports Complex Parking,100,26,74,26.0,EV
+2026-10-07,17:00,Wednesday,Main Gate Parking,150,81,69,54.0,Faculty Van
+2026-10-07,17:00,Wednesday,Academic Block Parking,200,80,120,40.0,Car
+2026-10-07,17:00,Wednesday,Library Parking,120,66,54,55.0,Two-Wheeler
+2026-10-07,17:00,Wednesday,Hostel Parking,180,127,53,70.56,Car
+2026-10-07,17:00,Wednesday,Canteen Parking,90,65,25,72.22,Car
+2026-10-07,17:00,Wednesday,Sports Complex Parking,100,83,17,83.0,Two-Wheeler
+2026-10-07,20:00,Wednesday,Main Gate Parking,150,35,115,23.33,Two-Wheeler
+2026-10-07,20:00,Wednesday,Academic Block Parking,200,33,167,16.5,Faculty Van
+2026-10-07,20:00,Wednesday,Library Parking,120,41,79,34.17,Two-Wheeler
+2026-10-07,20:00,Wednesday,Hostel Parking,180,151,29,83.89,Two-Wheeler
+2026-10-07,20:00,Wednesday,Canteen Parking,90,30,60,33.33,Car
+2026-10-07,20:00,Wednesday,Sports Complex Parking,100,42,58,42.0,Two-Wheeler
+2026-10-08,08:00,Thursday,Main Gate Parking,150,106,44,70.67,Two-Wheeler
+2026-10-08,08:00,Thursday,Academic Block Parking,200,152,48,76.0,Faculty Van
+2026-10-08,08:00,Thursday,Library Parking,120,33,87,27.5,Car
+2026-10-08,08:00,Thursday,Hostel Parking,180,103,77,57.22,EV
+2026-10-08,08:00,Thursday,Canteen Parking,90,36,54,40.0,EV
+2026-10-08,08:00,Thursday,Sports Complex Parking,100,18,82,18.0,Car
+2026-10-08,09:00,Thursday,Main Gate Parking,150,138,12,92.0,Two-Wheeler
+2026-10-08,09:00,Thursday,Academic Block Parking,200,175,25,87.5,Faculty Van
+2026-10-08,09:00,Thursday,Library Parking,120,58,62,48.33,Car
+2026-10-08,09:00,Thursday,Hostel Parking,180,73,107,40.56,Two-Wheeler
+2026-10-08,09:00,Thursday,Canteen Parking,90,47,43,52.22,EV
+2026-10-08,09:00,Thursday,Sports Complex Parking,100,11,89,11.0,Car
+2026-10-08,10:00,Thursday,Main Gate Parking,150,130,20,86.67,Two-Wheeler
+2026-10-08,10:00,Thursday,Academic Block Parking,200,173,27,86.5,Two-Wheeler
+2026-10-08,10:00,Thursday,Library Parking,120,68,52,56.67,Car
+2026-10-08,10:00,Thursday,Hostel Parking,180,62,118,34.44,Two-Wheeler
+2026-10-08,10:00,Thursday,Canteen Parking,90,52,38,57.78,EV
+2026-10-08,10:00,Thursday,Sports Complex Parking,100,22,78,22.0,Car
+2026-10-08,12:00,Thursday,Main Gate Parking,150,124,26,82.67,Car
+2026-10-08,12:00,Thursday,Academic Block Parking,200,145,55,72.5,Two-Wheeler
+2026-10-08,12:00,Thursday,Library Parking,120,74,46,61.67,Car
+2026-10-08,12:00,Thursday,Hostel Parking,180,79,101,43.89,Two-Wheeler
+2026-10-08,12:00,Thursday,Canteen Parking,90,77,13,85.56,Car
+2026-10-08,12:00,Thursday,Sports Complex Parking,100,16,84,16.0,EV
+2026-10-08,14:00,Thursday,Main Gate Parking,150,124,26,82.67,Two-Wheeler
+2026-10-08,14:00,Thursday,Academic Block Parking,200,161,39,80.5,Two-Wheeler
+2026-10-08,14:00,Thursday,Library Parking,120,71,49,59.17,Car
+2026-10-08,14:00,Thursday,Hostel Parking,180,73,107,40.56,EV
+2026-10-08,14:00,Thursday,Canteen Parking,90,70,20,77.78,EV
+2026-10-08,14:00,Thursday,Sports Complex Parking,100,30,70,30.0,Car
+2026-10-08,17:00,Thursday,Main Gate Parking,150,80,70,53.33,Car
+2026-10-08,17:00,Thursday,Academic Block Parking,200,94,106,47.0,EV
+2026-10-08,17:00,Thursday,Library Parking,120,62,58,51.67,Two-Wheeler
+2026-10-08,17:00,Thursday,Hostel Parking,180,122,58,67.78,EV
+2026-10-08,17:00,Thursday,Canteen Parking,90,63,27,70.0,Faculty Van
+2026-10-08,17:00,Thursday,Sports Complex Parking,100,83,17,83.0,EV
+2026-10-08,20:00,Thursday,Main Gate Parking,150,26,124,17.33,Two-Wheeler
+2026-10-08,20:00,Thursday,Academic Block Parking,200,27,173,13.5,Faculty Van
+2026-10-08,20:00,Thursday,Library Parking,120,49,71,40.83,EV
+2026-10-08,20:00,Thursday,Hostel Parking,180,159,21,88.33,Two-Wheeler
+2026-10-08,20:00,Thursday,Canteen Parking,90,30,60,33.33,Car
+2026-10-08,20:00,Thursday,Sports Complex Parking,100,47,53,47.0,EV
+2026-10-09,08:00,Friday,Main Gate Parking,150,103,47,68.67,Two-Wheeler
+2026-10-09,08:00,Friday,Academic Block Parking,200,132,68,66.0,Car
+2026-10-09,08:00,Friday,Library Parking,120,42,78,35.0,Car
+2026-10-09,08:00,Friday,Hostel Parking,180,92,88,51.11,Two-Wheeler
+2026-10-09,08:00,Friday,Canteen Parking,90,28,62,31.11,EV
+2026-10-09,08:00,Friday,Sports Complex Parking,100,24,76,24.0,Car
+2026-10-09,09:00,Friday,Main Gate Parking,150,128,22,85.33,Car
+2026-10-09,09:00,Friday,Academic Block Parking,200,175,25,87.5,Two-Wheeler
+2026-10-09,09:00,Friday,Library Parking,120,59,61,49.17,Car
+2026-10-09,09:00,Friday,Hostel Parking,180,73,107,40.56,Car
+2026-10-09,09:00,Friday,Canteen Parking,90,48,42,53.33,Car
+2026-10-09,09:00,Friday,Sports Complex Parking,100,10,90,10.0,Two-Wheeler
+2026-10-09,10:00,Friday,Main Gate Parking,150,134,16,89.33,Car
+2026-10-09,10:00,Friday,Academic Block Parking,200,172,28,86.0,Two-Wheeler
+2026-10-09,10:00,Friday,Library Parking,120,60,60,50.0,Two-Wheeler
+2026-10-09,10:00,Friday,Hostel Parking,180,51,129,28.33,Two-Wheeler
+2026-10-09,10:00,Friday,Canteen Parking,90,44,46,48.89,EV
+2026-10-09,10:00,Friday,Sports Complex Parking,100,17,83,17.0,Two-Wheeler
+2026-10-09,12:00,Friday,Main Gate Parking,150,123,27,82.0,Two-Wheeler
+2026-10-09,12:00,Friday,Academic Block Parking,200,146,54,73.0,Car
+2026-10-09,12:00,Friday,Library Parking,120,71,49,59.17,Car
+2026-10-09,12:00,Friday,Hostel Parking,180,66,114,36.67,Two-Wheeler
+2026-10-09,12:00,Friday,Canteen Parking,90,76,14,84.44,Car
+2026-10-09,12:00,Friday,Sports Complex Parking,100,18,82,18.0,Two-Wheeler
+2026-10-09,14:00,Friday,Main Gate Parking,150,109,41,72.67,Car
+2026-10-09,14:00,Friday,Academic Block Parking,200,136,64,68.0,Two-Wheeler
+2026-10-09,14:00,Friday,Library Parking,120,78,42,65.0,Two-Wheeler
+2026-10-09,14:00,Friday,Hostel Parking,180,82,98,45.56,Two-Wheeler
+2026-10-09,14:00,Friday,Canteen Parking,90,61,29,67.78,Two-Wheeler
+2026-10-09,14:00,Friday,Sports Complex Parking,100,18,82,18.0,Car
+2026-10-09,17:00,Friday,Main Gate Parking,150,79,71,52.67,Two-Wheeler
+2026-10-09,17:00,Friday,Academic Block Parking,200,87,113,43.5,Two-Wheeler
+2026-10-09,17:00,Friday,Library Parking,120,59,61,49.17,Car
+2026-10-09,17:00,Friday,Hostel Parking,180,122,58,67.78,EV
+2026-10-09,17:00,Friday,Canteen Parking,90,60,30,66.67,Car
+2026-10-09,17:00,Friday,Sports Complex Parking,100,70,30,70.0,Two-Wheeler
+2026-10-09,20:00,Friday,Main Gate Parking,150,36,114,24.0,Car
+2026-10-09,20:00,Friday,Academic Block Parking,200,37,163,18.5,Two-Wheeler
+2026-10-09,20:00,Friday,Library Parking,120,44,76,36.67,Car
+2026-10-09,20:00,Friday,Hostel Parking,180,138,42,76.67,Car
+2026-10-09,20:00,Friday,Canteen Parking,90,23,67,25.56,Two-Wheeler
+2026-10-09,20:00,Friday,Sports Complex Parking,100,45,55,45.0,Car
+2026-10-10,08:00,Saturday,Main Gate Parking,150,62,88,41.33,Two-Wheeler
+2026-10-10,08:00,Saturday,Academic Block Parking,200,70,130,35.0,Two-Wheeler
+2026-10-10,08:00,Saturday,Library Parking,120,22,98,18.33,Car
+2026-10-10,08:00,Saturday,Hostel Parking,180,102,78,56.67,Car
+2026-10-10,08:00,Saturday,Canteen Parking,90,20,70,22.22,Two-Wheeler
+2026-10-10,08:00,Saturday,Sports Complex Parking,100,14,86,14.0,Two-Wheeler
+2026-10-10,09:00,Saturday,Main Gate Parking,150,68,82,45.33,Faculty Van
+2026-10-10,09:00,Saturday,Academic Block Parking,200,97,103,48.5,Car
+2026-10-10,09:00,Saturday,Library Parking,120,27,93,22.5,EV
+2026-10-10,09:00,Saturday,Hostel Parking,180,59,121,32.78,Two-Wheeler
+2026-10-10,09:00,Saturday,Canteen Parking,90,27,63,30.0,Faculty Van
+2026-10-10,09:00,Saturday,Sports Complex Parking,100,16,84,16.0,EV
+2026-10-10,10:00,Saturday,Main Gate Parking,150,83,67,55.33,Two-Wheeler
+2026-10-10,10:00,Saturday,Academic Block Parking,200,105,95,52.5,Two-Wheeler
+2026-10-10,10:00,Saturday,Library Parking,120,41,79,34.17,Two-Wheeler
+2026-10-10,10:00,Saturday,Hostel Parking,180,62,118,34.44,Two-Wheeler
+2026-10-10,10:00,Saturday,Canteen Parking,90,29,61,32.22,Car
+2026-10-10,10:00,Saturday,Sports Complex Parking,100,14,86,14.0,Two-Wheeler
+2026-10-10,12:00,Saturday,Main Gate Parking,150,74,76,49.33,Two-Wheeler
+2026-10-10,12:00,Saturday,Academic Block Parking,200,91,109,45.5,Car
+2026-10-10,12:00,Saturday,Library Parking,120,34,86,28.33,Car
+2026-10-10,12:00,Saturday,Hostel Parking,180,62,118,34.44,Two-Wheeler
+2026-10-10,12:00,Saturday,Canteen Parking,90,44,46,48.89,Car
+2026-10-10,12:00,Saturday,Sports Complex Parking,100,18,82,18.0,Two-Wheeler
+2026-10-10,14:00,Saturday,Main Gate Parking,150,69,81,46.0,Car
+2026-10-10,14:00,Saturday,Academic Block Parking,200,83,117,41.5,Two-Wheeler
+2026-10-10,14:00,Saturday,Library Parking,120,41,79,34.17,Car
+2026-10-10,14:00,Saturday,Hostel Parking,180,68,112,37.78,EV
+2026-10-10,14:00,Saturday,Canteen Parking,90,38,52,42.22,Two-Wheeler
+2026-10-10,14:00,Saturday,Sports Complex Parking,100,29,71,29.0,Two-Wheeler
+2026-10-10,17:00,Saturday,Main Gate Parking,150,45,105,30.0,Car
+2026-10-10,17:00,Saturday,Academic Block Parking,200,45,155,22.5,Two-Wheeler
+2026-10-10,17:00,Saturday,Library Parking,120,40,80,33.33,EV
+2026-10-10,17:00,Saturday,Hostel Parking,180,115,65,63.89,Two-Wheeler
+2026-10-10,17:00,Saturday,Canteen Parking,90,34,56,37.78,Two-Wheeler
+2026-10-10,17:00,Saturday,Sports Complex Parking,100,75,25,75.0,Car
+2026-10-10,20:00,Saturday,Main Gate Parking,150,18,132,12.0,Car
+2026-10-10,20:00,Saturday,Academic Block Parking,200,13,187,6.5,Two-Wheeler
+2026-10-10,20:00,Saturday,Library Parking,120,23,97,19.17,Car
+2026-10-10,20:00,Saturday,Hostel Parking,180,137,43,76.11,Car
+2026-10-10,20:00,Saturday,Canteen Parking,90,16,74,17.78,Car
+2026-10-10,20:00,Saturday,Sports Complex Parking,100,41,59,41.0,Two-Wheeler
+2026-10-11,08:00,Sunday,Main Gate Parking,150,34,116,22.67,Two-Wheeler
+2026-10-11,08:00,Sunday,Academic Block Parking,200,43,157,21.5,Two-Wheeler
+2026-10-11,08:00,Sunday,Library Parking,120,8,112,6.67,Two-Wheeler
+2026-10-11,08:00,Sunday,Hostel Parking,180,96,84,53.33,Two-Wheeler
+2026-10-11,08:00,Sunday,Canteen Parking,90,14,76,15.56,Two-Wheeler
+2026-10-11,08:00,Sunday,Sports Complex Parking,100,10,90,10.0,Two-Wheeler
+2026-10-11,09:00,Sunday,Main Gate Parking,150,45,105,30.0,Car
+2026-10-11,09:00,Sunday,Academic Block Parking,200,53,147,26.5,Two-Wheeler
+2026-10-11,09:00,Sunday,Library Parking,120,28,92,23.33,Two-Wheeler
+2026-10-11,09:00,Sunday,Hostel Parking,180,66,114,36.67,Two-Wheeler
+2026-10-11,09:00,Sunday,Canteen Parking,90,18,72,20.0,Two-Wheeler
+2026-10-11,09:00,Sunday,Sports Complex Parking,100,11,89,11.0,Car
+2026-10-11,10:00,Sunday,Main Gate Parking,150,42,108,28.0,Car
+2026-10-11,10:00,Sunday,Academic Block Parking,200,57,143,28.5,Two-Wheeler
+2026-10-11,10:00,Sunday,Library Parking,120,25,95,20.83,Car
+2026-10-11,10:00,Sunday,Hostel Parking,180,61,119,33.89,Two-Wheeler
+2026-10-11,10:00,Sunday,Canteen Parking,90,16,74,17.78,Two-Wheeler
+2026-10-11,10:00,Sunday,Sports Complex Parking,100,9,91,9.0,Car
+2026-10-11,12:00,Sunday,Main Gate Parking,150,52,98,34.67,Faculty Van
+2026-10-11,12:00,Sunday,Academic Block Parking,200,49,151,24.5,Car
+2026-10-11,12:00,Sunday,Library Parking,120,24,96,20.0,Two-Wheeler
+2026-10-11,12:00,Sunday,Hostel Parking,180,79,101,43.89,Two-Wheeler
+2026-10-11,12:00,Sunday,Canteen Parking,90,31,59,34.44,Car
+2026-10-11,12:00,Sunday,Sports Complex Parking,100,10,90,10.0,Two-Wheeler
+2026-10-11,14:00,Sunday,Main Gate Parking,150,36,114,24.0,Two-Wheeler
+2026-10-11,14:00,Sunday,Academic Block Parking,200,65,135,32.5,Two-Wheeler
+2026-10-11,14:00,Sunday,Library Parking,120,23,97,19.17,Faculty Van
+2026-10-11,14:00,Sunday,Hostel Parking,180,79,101,43.89,Two-Wheeler
+2026-10-11,14:00,Sunday,Canteen Parking,90,24,66,26.67,Two-Wheeler
+2026-10-11,14:00,Sunday,Sports Complex Parking,100,9,91,9.0,Car
+2026-10-11,17:00,Sunday,Main Gate Parking,150,38,112,25.33,Two-Wheeler
+2026-10-11,17:00,Sunday,Academic Block Parking,200,23,177,11.5,Faculty Van
+2026-10-11,17:00,Sunday,Library Parking,120,25,95,20.83,EV
+2026-10-11,17:00,Sunday,Hostel Parking,180,127,53,70.56,Two-Wheeler
+2026-10-11,17:00,Sunday,Canteen Parking,90,25,65,27.78,Faculty Van
+2026-10-11,17:00,Sunday,Sports Complex Parking,100,27,73,27.0,Two-Wheeler
+2026-10-11,20:00,Sunday,Main Gate Parking,150,14,136,9.33,Two-Wheeler
+2026-10-11,20:00,Sunday,Academic Block Parking,200,10,190,5.0,Two-Wheeler
+2026-10-11,20:00,Sunday,Library Parking,120,13,107,10.83,EV
+2026-10-11,20:00,Sunday,Hostel Parking,180,151,29,83.89,Car
+2026-10-11,20:00,Sunday,Canteen Parking,90,14,76,15.56,Car
+2026-10-11,20:00,Sunday,Sports Complex Parking,100,15,85,15.0,Two-Wheeler
+2026-10-12,08:00,Monday,Main Gate Parking,150,120,30,80.0,Car
+2026-10-12,08:00,Monday,Academic Block Parking,200,158,42,79.0,Car
+2026-10-12,08:00,Monday,Library Parking,120,38,82,31.67,Two-Wheeler
+2026-10-12,08:00,Monday,Hostel Parking,180,113,67,62.78,EV
+2026-10-12,08:00,Monday,Canteen Parking,90,36,54,40.0,Car
+2026-10-12,08:00,Monday,Sports Complex Parking,100,15,85,15.0,EV
+2026-10-12,09:00,Monday,Main Gate Parking,150,135,15,90.0,Two-Wheeler
+2026-10-12,09:00,Monday,Academic Block Parking,200,185,15,92.5,Two-Wheeler
+2026-10-12,09:00,Monday,Library Parking,120,63,57,52.5,Two-Wheeler
+2026-10-12,09:00,Monday,Hostel Parking,180,71,109,39.44,Two-Wheeler
+2026-10-12,09:00,Monday,Canteen Parking,90,44,46,48.89,Car
+2026-10-12,09:00,Monday,Sports Complex Parking,100,19,81,19.0,Car
+2026-10-12,10:00,Monday,Main Gate Parking,150,147,3,98.0,Two-Wheeler
+2026-10-12,10:00,Monday,Academic Block Parking,200,192,8,96.0,Two-Wheeler
+2026-10-12,10:00,Monday,Library Parking,120,73,47,60.83,Car
+2026-10-12,10:00,Monday,Hostel Parking,180,68,112,37.78,Two-Wheeler
+2026-10-12,10:00,Monday,Canteen Parking,90,53,37,58.89,Car
+2026-10-12,10:00,Monday,Sports Complex Parking,100,15,85,15.0,Car
+2026-10-12,12:00,Monday,Main Gate Parking,150,135,15,90.0,Two-Wheeler
+2026-10-12,12:00,Monday,Academic Block Parking,200,161,39,80.5,Car
+2026-10-12,12:00,Monday,Library Parking,120,77,43,64.17,Two-Wheeler
+2026-10-12,12:00,Monday,Hostel Parking,180,89,91,49.44,Two-Wheeler
+2026-10-12,12:00,Monday,Canteen Parking,90,81,9,90.0,Car
+2026-10-12,12:00,Monday,Sports Complex Parking,100,19,81,19.0,Car
+2026-10-12,14:00,Monday,Main Gate Parking,150,119,31,79.33,Car
+2026-10-12,14:00,Monday,Academic Block Parking,200,165,35,82.5,Car
+2026-10-12,14:00,Monday,Library Parking,120,88,32,73.33,Two-Wheeler
+2026-10-12,14:00,Monday,Hostel Parking,180,87,93,48.33,Car
+2026-10-12,14:00,Monday,Canteen Parking,90,75,15,83.33,Two-Wheeler
+2026-10-12,14:00,Monday,Sports Complex Parking,100,32,68,32.0,Two-Wheeler
+2026-10-12,17:00,Monday,Main Gate Parking,150,90,60,60.0,Car
+2026-10-12,17:00,Monday,Academic Block Parking,200,86,114,43.0,Car
+2026-10-12,17:00,Monday,Library Parking,120,74,46,61.67,Two-Wheeler
+2026-10-12,17:00,Monday,Hostel Parking,180,145,35,80.56,Two-Wheeler
+2026-10-12,17:00,Monday,Canteen Parking,90,59,31,65.56,Two-Wheeler
+2026-10-12,17:00,Monday,Sports Complex Parking,100,80,20,80.0,Car
+2026-10-12,20:00,Monday,Main Gate Parking,150,39,111,26.0,Car
+2026-10-12,20:00,Monday,Academic Block Parking,200,45,155,22.5,Car
+2026-10-12,20:00,Monday,Library Parking,120,51,69,42.5,Two-Wheeler
+2026-10-12,20:00,Monday,Hostel Parking,180,169,11,93.89,Two-Wheeler
+2026-10-12,20:00,Monday,Canteen Parking,90,29,61,32.22,Two-Wheeler
+2026-10-12,20:00,Monday,Sports Complex Parking,100,45,55,45.0,EV
+2026-10-13,08:00,Tuesday,Main Gate Parking,150,128,22,85.33,Car
+2026-10-13,08:00,Tuesday,Academic Block Parking,200,150,50,75.0,Two-Wheeler
+2026-10-13,08:00,Tuesday,Library Parking,120,45,75,37.5,EV
+2026-10-13,08:00,Tuesday,Hostel Parking,180,108,72,60.0,Two-Wheeler
+2026-10-13,08:00,Tuesday,Canteen Parking,90,35,55,38.89,Car
+2026-10-13,08:00,Tuesday,Sports Complex Parking,100,16,84,16.0,Car
+2026-10-13,09:00,Tuesday,Main Gate Parking,150,130,20,86.67,Two-Wheeler
+2026-10-13,09:00,Tuesday,Academic Block Parking,200,184,16,92.0,Car
+2026-10-13,09:00,Tuesday,Library Parking,120,55,65,45.83,Two-Wheeler
+2026-10-13,09:00,Tuesday,Hostel Parking,180,74,106,41.11,Two-Wheeler
+2026-10-13,09:00,Tuesday,Canteen Parking,90,50,40,55.56,EV
+2026-10-13,09:00,Tuesday,Sports Complex Parking,100,20,80,20.0,Two-Wheeler
+2026-10-13,10:00,Tuesday,Main Gate Parking,150,147,3,98.0,Faculty Van
+2026-10-13,10:00,Tuesday,Academic Block Parking,200,186,14,93.0,Two-Wheeler
+2026-10-13,10:00,Tuesday,Library Parking,120,71,49,59.17,EV
+2026-10-13,10:00,Tuesday,Hostel Parking,180,69,111,38.33,Car
+2026-10-13,10:00,Tuesday,Canteen Parking,90,51,39,56.67,Car
+2026-10-13,10:00,Tuesday,Sports Complex Parking,100,21,79,21.0,Two-Wheeler
+2026-10-13,12:00,Tuesday,Main Gate Parking,150,128,22,85.33,Car
+2026-10-13,12:00,Tuesday,Academic Block Parking,200,170,30,85.0,Two-Wheeler
+2026-10-13,12:00,Tuesday,Library Parking,120,82,38,68.33,Two-Wheeler
+2026-10-13,12:00,Tuesday,Hostel Parking,180,77,103,42.78,Car
+2026-10-13,12:00,Tuesday,Canteen Parking,90,77,13,85.56,Two-Wheeler
+2026-10-13,12:00,Tuesday,Sports Complex Parking,100,20,80,20.0,Car
+2026-10-13,14:00,Tuesday,Main Gate Parking,150,115,35,76.67,Faculty Van
+2026-10-13,14:00,Tuesday,Academic Block Parking,200,169,31,84.5,Two-Wheeler
+2026-10-13,14:00,Tuesday,Library Parking,120,86,34,71.67,Faculty Van
+2026-10-13,14:00,Tuesday,Hostel Parking,180,85,95,47.22,Two-Wheeler
+2026-10-13,14:00,Tuesday,Canteen Parking,90,65,25,72.22,Two-Wheeler
+2026-10-13,14:00,Tuesday,Sports Complex Parking,100,26,74,26.0,Two-Wheeler
+2026-10-13,17:00,Tuesday,Main Gate Parking,150,96,54,64.0,Car
+2026-10-13,17:00,Tuesday,Academic Block Parking,200,94,106,47.0,Two-Wheeler
+2026-10-13,17:00,Tuesday,Library Parking,120,66,54,55.0,Car
+2026-10-13,17:00,Tuesday,Hostel Parking,180,133,47,73.89,Two-Wheeler
+2026-10-13,17:00,Tuesday,Canteen Parking,90,64,26,71.11,EV
+2026-10-13,17:00,Tuesday,Sports Complex Parking,100,82,18,82.0,Two-Wheeler
+2026-10-13,20:00,Tuesday,Main Gate Parking,150,33,117,22.0,Faculty Van
+2026-10-13,20:00,Tuesday,Academic Block Parking,200,40,160,20.0,Two-Wheeler
+2026-10-13,20:00,Tuesday,Library Parking,120,46,74,38.33,Car
+2026-10-13,20:00,Tuesday,Hostel Parking,180,156,24,86.67,EV
+2026-10-13,20:00,Tuesday,Canteen Parking,90,27,63,30.0,Two-Wheeler
+2026-10-13,20:00,Tuesday,Sports Complex Parking,100,51,49,51.0,Two-Wheeler
+2026-10-14,08:00,Wednesday,Main Gate Parking,150,118,32,78.67,Car
+2026-10-14,08:00,Wednesday,Academic Block Parking,200,137,63,68.5,Car
+2026-10-14,08:00,Wednesday,Library Parking,120,44,76,36.67,Two-Wheeler
+2026-10-14,08:00,Wednesday,Hostel Parking,180,117,63,65.0,Two-Wheeler
+2026-10-14,08:00,Wednesday,Canteen Parking,90,33,57,36.67,EV
+2026-10-14,08:00,Wednesday,Sports Complex Parking,100,19,81,19.0,Two-Wheeler
+2026-10-14,09:00,Wednesday,Main Gate Parking,150,130,20,86.67,Faculty Van
+2026-10-14,09:00,Wednesday,Academic Block Parking,200,181,19,90.5,Car
+2026-10-14,09:00,Wednesday,Library Parking,120,53,67,44.17,Two-Wheeler
+2026-10-14,09:00,Wednesday,Hostel Parking,180,70,110,38.89,Car
+2026-10-14,09:00,Wednesday,Canteen Parking,90,52,38,57.78,EV
+2026-10-14,09:00,Wednesday,Sports Complex Parking,100,16,84,16.0,Car
+2026-10-14,10:00,Wednesday,Main Gate Parking,150,147,3,98.0,Two-Wheeler
+2026-10-14,10:00,Wednesday,Academic Block Parking,200,189,11,94.5,Two-Wheeler
+2026-10-14,10:00,Wednesday,Library Parking,120,64,56,53.33,EV
+2026-10-14,10:00,Wednesday,Hostel Parking,180,72,108,40.0,Two-Wheeler
+2026-10-14,10:00,Wednesday,Canteen Parking,90,55,35,61.11,Two-Wheeler
+2026-10-14,10:00,Wednesday,Sports Complex Parking,100,23,77,23.0,Two-Wheeler
+2026-10-14,12:00,Wednesday,Main Gate Parking,150,136,14,90.67,EV
+2026-10-14,12:00,Wednesday,Academic Block Parking,200,157,43,78.5,EV
+2026-10-14,12:00,Wednesday,Library Parking,120,73,47,60.83,EV
+2026-10-14,12:00,Wednesday,Hostel Parking,180,76,104,42.22,Two-Wheeler
+2026-10-14,12:00,Wednesday,Canteen Parking,90,78,12,86.67,Car
+2026-10-14,12:00,Wednesday,Sports Complex Parking,100,23,77,23.0,Faculty Van
+2026-10-14,14:00,Wednesday,Main Gate Parking,150,120,30,80.0,Car
+2026-10-14,14:00,Wednesday,Academic Block Parking,200,159,41,79.5,Car
+2026-10-14,14:00,Wednesday,Library Parking,120,79,41,65.83,Two-Wheeler
+2026-10-14,14:00,Wednesday,Hostel Parking,180,78,102,43.33,Two-Wheeler
+2026-10-14,14:00,Wednesday,Canteen Parking,90,65,25,72.22,Two-Wheeler
+2026-10-14,14:00,Wednesday,Sports Complex Parking,100,27,73,27.0,Car
+2026-10-14,17:00,Wednesday,Main Gate Parking,150,92,58,61.33,Car
+2026-10-14,17:00,Wednesday,Academic Block Parking,200,96,104,48.0,Two-Wheeler
+2026-10-14,17:00,Wednesday,Library Parking,120,69,51,57.5,Two-Wheeler
+2026-10-14,17:00,Wednesday,Hostel Parking,180,137,43,76.11,Two-Wheeler
+2026-10-14,17:00,Wednesday,Canteen Parking,90,66,24,73.33,Two-Wheeler
+2026-10-14,17:00,Wednesday,Sports Complex Parking,100,76,24,76.0,Two-Wheeler
+2026-10-14,20:00,Wednesday,Main Gate Parking,150,38,112,25.33,EV
+2026-10-14,20:00,Wednesday,Academic Block Parking,200,41,159,20.5,Two-Wheeler
+2026-10-14,20:00,Wednesday,Library Parking,120,46,74,38.33,Two-Wheeler
+2026-10-14,20:00,Wednesday,Hostel Parking,180,161,19,89.44,Two-Wheeler
+2026-10-14,20:00,Wednesday,Canteen Parking,90,30,60,33.33,Car
+2026-10-14,20:00,Wednesday,Sports Complex Parking,100,44,56,44.0,Faculty Van
+2026-10-15,08:00,Thursday,Main Gate Parking,150,111,39,74.0,Two-Wheeler
+2026-10-15,08:00,Thursday,Academic Block Parking,200,143,57,71.5,EV
+2026-10-15,08:00,Thursday,Library Parking,120,45,75,37.5,EV
+2026-10-15,08:00,Thursday,Hostel Parking,180,106,74,58.89,Two-Wheeler
+2026-10-15,08:00,Thursday,Canteen Parking,90,34,56,37.78,Two-Wheeler
+2026-10-15,08:00,Thursday,Sports Complex Parking,100,24,76,24.0,Car
+2026-10-15,09:00,Thursday,Main Gate Parking,150,125,25,83.33,Two-Wheeler
+2026-10-15,09:00,Thursday,Academic Block Parking,200,183,17,91.5,Faculty Van
+2026-10-15,09:00,Thursday,Library Parking,120,59,61,49.17,Two-Wheeler
+2026-10-15,09:00,Thursday,Hostel Parking,180,58,122,32.22,Two-Wheeler
+2026-10-15,09:00,Thursday,Canteen Parking,90,49,41,54.44,Two-Wheeler
+2026-10-15,09:00,Thursday,Sports Complex Parking,100,18,82,18.0,EV
+2026-10-15,10:00,Thursday,Main Gate Parking,150,129,21,86.0,Two-Wheeler
+2026-10-15,10:00,Thursday,Academic Block Parking,200,174,26,87.0,Car
+2026-10-15,10:00,Thursday,Library Parking,120,60,60,50.0,Two-Wheeler
+2026-10-15,10:00,Thursday,Hostel Parking,180,61,119,33.89,Two-Wheeler
+2026-10-15,10:00,Thursday,Canteen Parking,90,49,41,54.44,Car
+2026-10-15,10:00,Thursday,Sports Complex Parking,100,22,78,22.0,Two-Wheeler
+2026-10-15,12:00,Thursday,Main Gate Parking,150,120,30,80.0,EV
+2026-10-15,12:00,Thursday,Academic Block Parking,200,149,51,74.5,Two-Wheeler
+2026-10-15,12:00,Thursday,Library Parking,120,69,51,57.5,Car
+2026-10-15,12:00,Thursday,Hostel Parking,180,63,117,35.0,Two-Wheeler
+2026-10-15,12:00,Thursday,Canteen Parking,90,82,8,91.11,Two-Wheeler
+2026-10-15,12:00,Thursday,Sports Complex Parking,100,17,83,17.0,Two-Wheeler
+2026-10-15,14:00,Thursday,Main Gate Parking,150,114,36,76.0,Two-Wheeler
+2026-10-15,14:00,Thursday,Academic Block Parking,200,157,43,78.5,Two-Wheeler
+2026-10-15,14:00,Thursday,Library Parking,120,72,48,60.0,EV
+2026-10-15,14:00,Thursday,Hostel Parking,180,70,110,38.89,Two-Wheeler
+2026-10-15,14:00,Thursday,Canteen Parking,90,66,24,73.33,Car
+2026-10-15,14:00,Thursday,Sports Complex Parking,100,26,74,26.0,Two-Wheeler
+2026-10-15,17:00,Thursday,Main Gate Parking,150,93,57,62.0,Car
+2026-10-15,17:00,Thursday,Academic Block Parking,200,99,101,49.5,Two-Wheeler
+2026-10-15,17:00,Thursday,Library Parking,120,60,60,50.0,Two-Wheeler
+2026-10-15,17:00,Thursday,Hostel Parking,180,133,47,73.89,Two-Wheeler
+2026-10-15,17:00,Thursday,Canteen Parking,90,54,36,60.0,Two-Wheeler
+2026-10-15,17:00,Thursday,Sports Complex Parking,100,80,20,80.0,EV
+2026-10-15,20:00,Thursday,Main Gate Parking,150,31,119,20.67,Two-Wheeler
+2026-10-15,20:00,Thursday,Academic Block Parking,200,34,166,17.0,Car
+2026-10-15,20:00,Thursday,Library Parking,120,46,74,38.33,Two-Wheeler
+2026-10-15,20:00,Thursday,Hostel Parking,180,156,24,86.67,Two-Wheeler
+2026-10-15,20:00,Thursday,Canteen Parking,90,29,61,32.22,Two-Wheeler
+2026-10-15,20:00,Thursday,Sports Complex Parking,100,44,56,44.0,EV
+2026-10-16,08:00,Friday,Main Gate Parking,150,110,40,73.33,Car
+2026-10-16,08:00,Friday,Academic Block Parking,200,131,69,65.5,Two-Wheeler
+2026-10-16,08:00,Friday,Library Parking,120,41,79,34.17,Car
+2026-10-16,08:00,Friday,Hostel Parking,180,98,82,54.44,Two-Wheeler
+2026-10-16,08:00,Friday,Canteen Parking,90,26,64,28.89,Car
+2026-10-16,08:00,Friday,Sports Complex Parking,100,19,81,19.0,Faculty Van
+2026-10-16,09:00,Friday,Main Gate Parking,150,126,24,84.0,EV
+2026-10-16,09:00,Friday,Academic Block Parking,200,172,28,86.0,Car
+2026-10-16,09:00,Friday,Library Parking,120,58,62,48.33,Two-Wheeler
+2026-10-16,09:00,Friday,Hostel Parking,180,70,110,38.89,Two-Wheeler
+2026-10-16,09:00,Friday,Canteen Parking,90,41,49,45.56,Car
+2026-10-16,09:00,Friday,Sports Complex Parking,100,20,80,20.0,Car
+2026-10-16,10:00,Friday,Main Gate Parking,150,138,12,92.0,EV
+2026-10-16,10:00,Friday,Academic Block Parking,200,175,25,87.5,Faculty Van
+2026-10-16,10:00,Friday,Library Parking,120,69,51,57.5,EV
+2026-10-16,10:00,Friday,Hostel Parking,180,53,127,29.44,Two-Wheeler
+2026-10-16,10:00,Friday,Canteen Parking,90,44,46,48.89,Two-Wheeler
+2026-10-16,10:00,Friday,Sports Complex Parking,100,16,84,16.0,Two-Wheeler
+2026-10-16,12:00,Friday,Main Gate Parking,150,122,28,81.33,Two-Wheeler
+2026-10-16,12:00,Friday,Academic Block Parking,200,157,43,78.5,Faculty Van
+2026-10-16,12:00,Friday,Library Parking,120,63,57,52.5,Car
+2026-10-16,12:00,Friday,Hostel Parking,180,59,121,32.78,EV
+2026-10-16,12:00,Friday,Canteen Parking,90,74,16,82.22,EV
+2026-10-16,12:00,Friday,Sports Complex Parking,100,17,83,17.0,Car
+2026-10-16,14:00,Friday,Main Gate Parking,150,116,34,77.33,EV
+2026-10-16,14:00,Friday,Academic Block Parking,200,141,59,70.5,Two-Wheeler
+2026-10-16,14:00,Friday,Library Parking,120,67,53,55.83,EV
+2026-10-16,14:00,Friday,Hostel Parking,180,69,111,38.33,Two-Wheeler
+2026-10-16,14:00,Friday,Canteen Parking,90,59,31,65.56,EV
+2026-10-16,14:00,Friday,Sports Complex Parking,100,20,80,20.0,Two-Wheeler
+2026-10-16,17:00,Friday,Main Gate Parking,150,83,67,55.33,Two-Wheeler
+2026-10-16,17:00,Friday,Academic Block Parking,200,94,106,47.0,Two-Wheeler
+2026-10-16,17:00,Friday,Library Parking,120,63,57,52.5,Car
+2026-10-16,17:00,Friday,Hostel Parking,180,121,59,67.22,Car
+2026-10-16,17:00,Friday,Canteen Parking,90,56,34,62.22,Two-Wheeler
+2026-10-16,17:00,Friday,Sports Complex Parking,100,81,19,81.0,Car
+2026-10-16,20:00,Friday,Main Gate Parking,150,31,119,20.67,Car
+2026-10-16,20:00,Friday,Academic Block Parking,200,40,160,20.0,EV
+2026-10-16,20:00,Friday,Library Parking,120,36,84,30.0,Two-Wheeler
+2026-10-16,20:00,Friday,Hostel Parking,180,145,35,80.56,EV
+2026-10-16,20:00,Friday,Canteen Parking,90,24,66,26.67,Two-Wheeler
+2026-10-16,20:00,Friday,Sports Complex Parking,100,37,63,37.0,Car
+2026-10-17,08:00,Saturday,Main Gate Parking,150,69,81,46.0,Two-Wheeler
+2026-10-17,08:00,Saturday,Academic Block Parking,200,82,118,41.0,Two-Wheeler
+2026-10-17,08:00,Saturday,Library Parking,120,23,97,19.17,Car
+2026-10-17,08:00,Saturday,Hostel Parking,180,104,76,57.78,Two-Wheeler
+2026-10-17,08:00,Saturday,Canteen Parking,90,13,77,14.44,Two-Wheeler
+2026-10-17,08:00,Saturday,Sports Complex Parking,100,14,86,14.0,Two-Wheeler
+2026-10-17,09:00,Saturday,Main Gate Parking,150,68,82,45.33,Car
+2026-10-17,09:00,Saturday,Academic Block Parking,200,105,95,52.5,Car
+2026-10-17,09:00,Saturday,Library Parking,120,26,94,21.67,EV
+2026-10-17,09:00,Saturday,Hostel Parking,180,49,131,27.22,Two-Wheeler
+2026-10-17,09:00,Saturday,Canteen Parking,90,21,69,23.33,Car
+2026-10-17,09:00,Saturday,Sports Complex Parking,100,12,88,12.0,Car
+2026-10-17,10:00,Saturday,Main Gate Parking,150,79,71,52.67,Car
+2026-10-17,10:00,Saturday,Academic Block Parking,200,88,112,44.0,EV
+2026-10-17,10:00,Saturday,Library Parking,120,33,87,27.5,Car
+2026-10-17,10:00,Saturday,Hostel Parking,180,47,133,26.11,Car
+2026-10-17,10:00,Saturday,Canteen Parking,90,32,58,35.56,Two-Wheeler
+2026-10-17,10:00,Saturday,Sports Complex Parking,100,20,80,20.0,Two-Wheeler
+2026-10-17,12:00,Saturday,Main Gate Parking,150,75,75,50.0,Two-Wheeler
+2026-10-17,12:00,Saturday,Academic Block Parking,200,78,122,39.0,Two-Wheeler
+2026-10-17,12:00,Saturday,Library Parking,120,47,73,39.17,Car
+2026-10-17,12:00,Saturday,Hostel Parking,180,73,107,40.56,Two-Wheeler
+2026-10-17,12:00,Saturday,Canteen Parking,90,43,47,47.78,Two-Wheeler
+2026-10-17,12:00,Saturday,Sports Complex Parking,100,26,74,26.0,Car
+2026-10-17,14:00,Saturday,Main Gate Parking,150,64,86,42.67,Car
+2026-10-17,14:00,Saturday,Academic Block Parking,200,90,110,45.0,Two-Wheeler
+2026-10-17,14:00,Saturday,Library Parking,120,48,72,40.0,Car
+2026-10-17,14:00,Saturday,Hostel Parking,180,61,119,33.89,Two-Wheeler
+2026-10-17,14:00,Saturday,Canteen Parking,90,32,58,35.56,Car
+2026-10-17,14:00,Saturday,Sports Complex Parking,100,26,74,26.0,Two-Wheeler
+2026-10-17,17:00,Saturday,Main Gate Parking,150,44,106,29.33,Faculty Van
+2026-10-17,17:00,Saturday,Academic Block Parking,200,49,151,24.5,Two-Wheeler
+2026-10-17,17:00,Saturday,Library Parking,120,37,83,30.83,Car
+2026-10-17,17:00,Saturday,Hostel Parking,180,122,58,67.78,Two-Wheeler
+2026-10-17,17:00,Saturday,Canteen Parking,90,35,55,38.89,Two-Wheeler
+2026-10-17,17:00,Saturday,Sports Complex Parking,100,81,19,81.0,Car
+2026-10-17,20:00,Saturday,Main Gate Parking,150,19,131,12.67,Car
+2026-10-17,20:00,Saturday,Academic Block Parking,200,13,187,6.5,Two-Wheeler
+2026-10-17,20:00,Saturday,Library Parking,120,23,97,19.17,Car
+2026-10-17,20:00,Saturday,Hostel Parking,180,136,44,75.56,Two-Wheeler
+2026-10-17,20:00,Saturday,Canteen Parking,90,14,76,15.56,Car
+2026-10-17,20:00,Saturday,Sports Complex Parking,100,47,53,47.0,Car
+2026-10-18,08:00,Sunday,Main Gate Parking,150,48,102,32.0,Car
+2026-10-18,08:00,Sunday,Academic Block Parking,200,42,158,21.0,Two-Wheeler
+2026-10-18,08:00,Sunday,Library Parking,120,19,101,15.83,Two-Wheeler
+2026-10-18,08:00,Sunday,Hostel Parking,180,105,75,58.33,Two-Wheeler
+2026-10-18,08:00,Sunday,Canteen Parking,90,10,80,11.11,Car
+2026-10-18,08:00,Sunday,Sports Complex Parking,100,5,95,5.0,Two-Wheeler
+2026-10-18,09:00,Sunday,Main Gate Parking,150,54,96,36.0,EV
+2026-10-18,09:00,Sunday,Academic Block Parking,200,69,131,34.5,Faculty Van
+2026-10-18,09:00,Sunday,Library Parking,120,22,98,18.33,Two-Wheeler
+2026-10-18,09:00,Sunday,Hostel Parking,180,65,115,36.11,Two-Wheeler
+2026-10-18,09:00,Sunday,Canteen Parking,90,19,71,21.11,Car
+2026-10-18,09:00,Sunday,Sports Complex Parking,100,5,95,5.0,Two-Wheeler
+2026-10-18,10:00,Sunday,Main Gate Parking,150,48,102,32.0,Two-Wheeler
+2026-10-18,10:00,Sunday,Academic Block Parking,200,68,132,34.0,EV
+2026-10-18,10:00,Sunday,Library Parking,120,29,91,24.17,Faculty Van
+2026-10-18,10:00,Sunday,Hostel Parking,180,63,117,35.0,Two-Wheeler
+2026-10-18,10:00,Sunday,Canteen Parking,90,21,69,23.33,Car
+2026-10-18,10:00,Sunday,Sports Complex Parking,100,12,88,12.0,Two-Wheeler
+2026-10-18,12:00,Sunday,Main Gate Parking,150,42,108,28.0,Car
+2026-10-18,12:00,Sunday,Academic Block Parking,200,63,137,31.5,Car
+2026-10-18,12:00,Sunday,Library Parking,120,24,96,20.0,Car
+2026-10-18,12:00,Sunday,Hostel Parking,180,78,102,43.33,Two-Wheeler
+2026-10-18,12:00,Sunday,Canteen Parking,90,28,62,31.11,Car
+2026-10-18,12:00,Sunday,Sports Complex Parking,100,10,90,10.0,Car
+2026-10-18,14:00,Sunday,Main Gate Parking,150,48,102,32.0,Car
+2026-10-18,14:00,Sunday,Academic Block Parking,200,55,145,27.5,Car
+2026-10-18,14:00,Sunday,Library Parking,120,26,94,21.67,Two-Wheeler
+2026-10-18,14:00,Sunday,Hostel Parking,180,79,101,43.89,Two-Wheeler
+2026-10-18,14:00,Sunday,Canteen Parking,90,20,70,22.22,Car
+2026-10-18,14:00,Sunday,Sports Complex Parking,100,5,95,5.0,Two-Wheeler
+2026-10-18,17:00,Sunday,Main Gate Parking,150,34,116,22.67,Car
+2026-10-18,17:00,Sunday,Academic Block Parking,200,36,164,18.0,Two-Wheeler
+2026-10-18,17:00,Sunday,Library Parking,120,22,98,18.33,Car
+2026-10-18,17:00,Sunday,Hostel Parking,180,128,52,71.11,Car
+2026-10-18,17:00,Sunday,Canteen Parking,90,21,69,23.33,Car
+2026-10-18,17:00,Sunday,Sports Complex Parking,100,32,68,32.0,Two-Wheeler
+2026-10-18,20:00,Sunday,Main Gate Parking,150,16,134,10.67,Car
+2026-10-18,20:00,Sunday,Academic Block Parking,200,10,190,5.0,Two-Wheeler
+2026-10-18,20:00,Sunday,Library Parking,120,9,111,7.5,Car
+2026-10-18,20:00,Sunday,Hostel Parking,180,138,42,76.67,Car
+2026-10-18,20:00,Sunday,Canteen Parking,90,7,83,7.78,Two-Wheeler
+2026-10-18,20:00,Sunday,Sports Complex Parking,100,10,90,10.0,Two-Wheeler
